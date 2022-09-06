@@ -1,3 +1,5 @@
 Hello! I'm a new file.
 
 Time to commit and push! 
+
+Merge
