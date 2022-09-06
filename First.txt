@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I've added a line at the top!
 
 Here's my new file.
